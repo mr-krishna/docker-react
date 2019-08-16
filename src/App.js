@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Concentrate Bitchhhhh
+         Concentrate Bitchhhhh WTF is wrong with you
         </a>
       </header>
     </div>
